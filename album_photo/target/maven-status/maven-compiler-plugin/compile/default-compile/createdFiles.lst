@@ -1,0 +1,6 @@
+servlets/DisplayAlbumServlet.class
+mx/com/album_photo/JAXRSConfiguration.class
+models/PhotoAlbum.class
+mx/com/album_photo/resources/JavaEE8Resource.class
+servlets/DisplayPhotoServlet.class
+servlets/DeletePhotoServlet.class
